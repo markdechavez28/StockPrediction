@@ -5,7 +5,6 @@ This project utilizes a **Long Short-Term Memory (LSTM) Recurrent Neural Network
 
 ## 📅 Timeline
 - **March 2025**
-- **Principal Developer:** [Your Name]
 
 ## 🛠 Features
 ✅ **Python-based ETL Pipeline**: Processed **100,000+ data points** for efficient analysis and storage.  
