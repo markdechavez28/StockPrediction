@@ -1,0 +1,5 @@
+Stock: SMC
+MAE: 5.7249
+MSE: 38.5847
+RMSE: 6.2117
+MAPE: 6.87%

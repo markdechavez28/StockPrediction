@@ -1,0 +1,5 @@
+Stock: LTG
+MAE: 0.7644
+MSE: 0.7491
+RMSE: 0.8655
+MAPE: 6.21%

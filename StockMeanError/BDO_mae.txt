@@ -1,0 +1,5 @@
+Stock: BDO
+MAE: 8.1279
+MSE: 70.0968
+RMSE: 8.3724
+MAPE: 5.09%

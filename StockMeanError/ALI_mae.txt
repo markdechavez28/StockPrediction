@@ -1,0 +1,5 @@
+Stock: ALI
+MAE: 1.1445
+MSE: 1.4879
+RMSE: 1.2198
+MAPE: 5.12%

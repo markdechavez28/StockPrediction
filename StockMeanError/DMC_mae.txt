@@ -1,0 +1,5 @@
+Stock: DMC
+MAE: 0.3112
+MSE: 0.1346
+RMSE: 0.3669
+MAPE: 2.67%

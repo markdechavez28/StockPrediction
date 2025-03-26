@@ -1,0 +1,5 @@
+Stock: MBT
+MAE: 0.7793
+MSE: 0.9269
+RMSE: 0.9628
+MAPE: 1.07%
